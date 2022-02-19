@@ -1,0 +1,19 @@
+@font-face {
+    font-family:'Cereal Medium' ;
+    src: url(../assets/fonts/Airbnb_Cereal-Medium-50fc004b3082375f12ff0cfb67bf8e56.woff2);
+}
+@font-face {
+    font-family: 'Cereal Book';
+    src: url(../assets/fonts/Airbnb_Cereal-Book-9a1c9cca9bb3d65fefa2aa487617805e.woff2);
+}
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+a:hover, a:active, a:visited{
+    text-decoration: none;
+    color: inherit;
+}
